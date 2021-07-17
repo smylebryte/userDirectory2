@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,OACE,WAAY,CACZ,wBAAyB,CACzB,UACF,CAEA,UACE,aAAc,CACd,UAAY,CACZ,kBACF","file":"main.df47a9fa.chunk.css","sourcesContent":["header {\r\n  height: 15vh;\r\n  background-color: #bd557a;\r\n  opacity: 0.4;\r\n}\r\n\r\nheader h1 {\r\n  color: #559ebd;\r\n  opacity: 0.8;\r\n  font-weight: bolder;\r\n}\r\n"]}
